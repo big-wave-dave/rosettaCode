@@ -38,3 +38,17 @@ In other words: For this example, print the numbers 1 through 20, replacing ever
 ===================
 Link: http://rosettacode.org/wiki/FTP#Perl
 "Connect to a server, change directory, list its contents and download a file as binary using the FTP protocol. Use passive mode if available."
+
+
+=======================
+=Polynomial Regression=
+=======================
+Link: http://rosettacode.org/wiki/Polynomial_regression#Perl
+"Find an approximating polynom of known degree for a given data. 
+Example:
+For input data:
+ x = {0,  1,  2,  3,  4,  5,  6,   7,   8,   9,   10};
+ y = {1,  6,  17, 34, 57, 86, 121, 162, 209, 262, 321};
+The approximating polynom is:
+ 3 x<sup>2</sup> + 2 x + 1
+Here, the polynom's coefficients are (3, 2, 1)."
