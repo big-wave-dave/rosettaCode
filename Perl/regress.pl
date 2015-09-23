@@ -109,7 +109,7 @@ for(my $i = 0; $i < $pairs-1; $i++) {
         $polynomial .= ($alphabet[$i] . "x^" . $degrees[$i] . " + ");
     }
 }
-#Now for the last piece of the poly: the x-intercept.
+#Now for the last piece of the poly: the y-intercept.
 $polynomial .= $alphabet[scalar(@alphabet)-1];
 
 print("An approximating polynomial for your dataset is $polynomial.\n");
