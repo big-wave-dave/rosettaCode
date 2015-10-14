@@ -1,6 +1,9 @@
 ========
 =[Pigdice](http://rosettacode.org/wiki/Pig_the_dice_game/Player#Java)=
 ========
+**What I did was completely reimplement the game from scratch. I included 4 basic bots with varying strategies. The game not only supports human play and bot simulations, but multiplayer with bots and humans.**
+
+
 #Task
 "The task is to create a dice simulator and scorer of Pig the dice game and add to it the ability to play the game to at least one strategy.
 
@@ -17,8 +20,6 @@ The game of Pig is a multiplayer game played with a single six-sided die. The ob
 
 >    Rolling the dice: where a roll of two to six is added to their score for that turn and the player's turn continues as the player is given the same choice again; or a roll of 1 loses the player's total points for that turn and their turn finishes with play passing to the next player.
 >    Holding: The player's score for that round is added to their total and becomes safe from the effects of throwing a one. The player's turn finishes with play passing to the next player. "
-
-What I did was completely reimplement the game from scratch. I included 4 basic bots with varying strategies. The game not only supports human play and bot simulations, but multiplayer with bots and humans.
 
 Lessened sample output of a simulation:
 <pre>
