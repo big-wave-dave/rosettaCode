@@ -9,4 +9,8 @@ Open Source contributions I've made that have been accepted by rosettacode.org. 
 # Java:
 1. [Pigdice](http://rosettacode.org/wiki/Pig_the_dice_game/Player#Java)
 
+# SQL:
+1. [Create a file](http://rosettacode.org/wiki/Create_a_file#SQLite)
+2. [Table creation/Postal addresses](http://rosettacode.org/wiki/Table_creation/Postal_addresses#SQLite)
+
 I'll always post a link to the code I've put up as well as include my original source code here along with Rosetta Code's description of the task in the README.md in its respective directory.
